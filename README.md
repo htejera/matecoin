@@ -28,6 +28,6 @@ Otra forma de aportar es sumarte a las discuciones que tenemos en Criptomates. A
 
 ## ¿Quién está detras de esto?
 
-Dos tipos: **1** Santiago y **2** Henry. Juntos tenemos una espacio que dimos a llamar [Criptomates](https://criptomates.tv). No sabamoes nada de criptos pero igual hablamos (¿te suena de algún lado?) Pero a nuestro favor podemos decir que queremos aprender y hacer transparente este proceso de aprendizaje.
+Dos tipos: **1** Santiago y **2** Henry. Juntos tenemos una espacio que dimos a llamar [Criptomates](https://criptomates.tv). No sabemos nada de criptos pero igual hablamos (¿te suena de algún lado?) Pero a nuestro favor podemos decir que queremos aprender y hacer transparente este proceso de aprendizaje.
 
 ![alt text](https://d33wubrfki0l68.cloudfront.net/035c1e06051bb6dacfa5a0d05372b5c1c9ce992a/5a2f3/assets/images/logo-96x98.png "Criptomates")
