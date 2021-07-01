@@ -15,7 +15,13 @@ Este repositorio es el lugar que va a reflejar los avances de este proyecto. Des
 
 ## Me interesa ¿cómo me sumo? 
 
-Te podes sumar dejando tus ideas creando un [issues](https://github.com/htejera/matecoin/issues) con el tag **idea** 
+Te podes sumar dejando tus ideas creando un [issues](https://github.com/htejera/matecoin/issues), o si tenes preguntas o encontrás un bicho, todo por **tag** 
+
+### Tags
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `BICHO`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `IDEA`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `PREGUNTA`
 
 Otra forma de aportar es sumarte a las discuciones que tenemos en Criptomates. Aún estamos viendo cual es el mejor medio para comunicarnos de forma fluida. Cuando lo sepamos lo dejamos por acá.
 
