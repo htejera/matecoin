@@ -11,7 +11,7 @@ Todo empezó con una hipótesis: *"Hoy cualquier hijo de vecino te arma una crip
 El objetivo es crear un token, pero uno que tenga utilidad, lo cual parece ser el mayor desafio. 
 De lo anterior se desprende que queremos evitar hacer algo porque simplemente lo podemos hacer, o lo que es lo mismo: no queremos una **shitcoin** o **memecoin**.
 
-Este repositorio es el lugar que va a reflejar los avances de este proyecto. Desde 🌩️ [tormentas de ideas](https://github.com/htejera/matecoin/wiki/Tormenta-de-ideas), pasando por algo de código, documentación y recursos. 
+Este repositorio es el lugar que va a reflejar los avances de este proyecto. Desde 🌩️ [tormentas de ideas](https://github.com/htejera/matecoin/wiki/%F0%9F%8C%A9%EF%B8%8F-Tormenta-de-ideas), pasando por algo de código, documentación y recursos. 
 
 ## Me interesa ¿cómo me sumo? 
 
