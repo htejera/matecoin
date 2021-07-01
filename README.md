@@ -15,7 +15,7 @@ Este repositorio es el lugar que va a reflejar los avances de este proyecto. Des
 
 ## Me interesa ¿cómo me sumo? 
 
-Te podes sumar dejando tus ideas creando un [issues](https://github.com/htejera/matecoin/issues), o si tenes preguntas o encontrás un bicho, todo por **tag** 
+Te podes sumar dejando tus ideas creando un [issue](https://github.com/htejera/matecoin/issues), o si tenes preguntas o encontrás un bicho, todo por **tag**. 
 
 ### Tags
 
