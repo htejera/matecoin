@@ -5,13 +5,13 @@
 
 **MateCoin** es un token que se está creando, gestando en el mismo momento en que estás leyendo esto... ¿y sabés qué? ¡Vos podés formar parte de este experimento!
 
-Todo empezó con una hipótesis: *"Hoy cualquier hijo de vecino te arma una criptomoneda"* es decir, la barrera de entrada desde el punto de vista técnico es muy baja. No se requiere ser un Gardel de la progrmación para crear un **token** (no así una criptomoneda, que no son lo mismo). Quizás está facildiad de acceso es la responsable de que al día de hoy (julio 2021) existan más de 10 mil token y criptomonedas. Claro, por un lado te democratiza el acceso pero por otro se presta para generar "ruido", más la aparición en escena de algún maleducado que solo quiere estafar a la gente y conseguir ese **lambo** sin mucho esfuerzo ("burgueses apresurados"). 
+Todo empezó con una hipótesis: *"Hoy cualquier hijo de vecino te arma una criptomoneda"* es decir, la barrera de entrada desde el punto de vista técnico es muy baja. No se requiere ser un Gardel de la progrmación para crear un **token** (no así una criptomoneda, que no son lo mismo). Quizás está facilidad de acceso es la responsable de que al día de hoy (julio 2021) existan más de 10 mil token y criptomonedas. Claro, por un lado te democratiza el acceso pero por otro se presta para generar "ruido", más la aparición en escena de algún maleducado que solo quiere estafar a la gente y conseguir ese **lambo** sin mucho esfuerzo ("burgueses apresurados"). 
 
 ## Todo bien pero... ¿de qué va todo esto? 
 El objetivo es crear un token, pero uno que tenga utilidad, lo cual parece ser el mayor desafio. 
 De lo anterior se desprende que queremos evitar hacer algo porque simplemente lo podemos hacer, o lo que es lo mismo: no queremos una **shitcoin** o **memecoin**.
 
-Este repositorio es el lugar que va a reflejar los avances de este proyecto. Desde 🌩️ [tormentas de ideas](https://github.com/htejera/matecoin/wiki/Tormenta-de-ideas), pasando por algo de código, documentación y recursos. 
+Este repositorio es el lugar que va a reflejar los avances de este proyecto. Desde 🌩️ [tormentas de ideas](https://github.com/htejera/matecoin/wiki/%F0%9F%8C%A9%EF%B8%8F-Tormenta-de-ideas), pasando por algo de código, documentación y recursos. 
 
 ## Me interesa ¿cómo me sumo? 
 
