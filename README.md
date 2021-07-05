@@ -13,6 +13,8 @@ De lo anterior se desprende que queremos evitar hacer algo porque simplemente lo
 
 Este repositorio es el lugar que va a reflejar los avances de este proyecto. Desde 🌩️ [tormentas de ideas](https://github.com/htejera/matecoin/wiki/%F0%9F%8C%A9%EF%B8%8F-Tormenta-de-ideas), pasando por algo de código, documentación y recursos. 
 
+En la Wiki vamos generando la documentación: [Wiki](https://github.com/htejera/matecoin/wiki)
+
 ## Me interesa ¿cómo me sumo? 
 
 Te podes sumar dejando tus ideas creando un [issue](https://github.com/htejera/matecoin/issues), o si tenes preguntas o encontrás un bicho, todo por **tag**. 
