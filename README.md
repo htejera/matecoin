@@ -27,6 +27,12 @@ Te podes sumar dejando tus ideas creando un [issue](https://github.com/htejera/m
 
 Otra forma de aportar es sumarte a las discuciones que tenemos en Criptomates. Aún estamos viendo cual es el mejor medio para comunicarnos de forma fluida. Cuando lo sepamos lo dejamos por acá.
 
+También podés sumarte a los grupos de:
+
+* [Telegram](https://t.me/joinchat/XY3M-JEgIGk2Mzdh)
+* [Discord](https://discord.gg/HKbZM3fa)
+* [YouTube](https://www.youtube.com/channel/UCSUIfzytm_u6z82rH6lwo9A)
+
 
 ## ¿Quién está detras de esto?
 
